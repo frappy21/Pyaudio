@@ -7,7 +7,7 @@ import json
 i = 0
 
 #___________________________________________________________________________________________________________________________#
-apikey = '3c0a2184581d6ae1fd3bc7713495db69'; # generate and place here your unique API access key, the key must be 'active'
+apikey = '3c0a2184581d6ae1fd3bc77134956666'; # generate and place here your unique API access key, the key must be 'active'
 #############################################################################################################################
 
 
